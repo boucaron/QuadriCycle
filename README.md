@@ -25,7 +25,7 @@ This project explores aerodynamic optimization for a compact **electric minivan*
 - This redirected flow energizes the **underfloor boundary layer**, helping reduce wake turbulence and improving underbody flow characteristics.
 
 ### 3. **Strake Integration**
-- A series of **strakes (aerodynamic fins)** are strategically placed under the floor and near the side skirts.
+- A series of **strakes (aerodynamic fins)** are strategically placed under the floor.
 - These help **re-energize the flow**, manage vortex structures, and improve ground effect stability.
 
 ### 4. **Canopy and Rear Flow Refinement**
