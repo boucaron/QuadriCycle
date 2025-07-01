@@ -37,7 +37,52 @@ Numerous iterations of the canopy’s rear end were evaluated to reduce wake rec
 - Reduce overall **drag coefficient** (Cd) to improve electric range.
 - Maintain **large cargo space** without compromising aerodynamic efficiency.
 - Demonstrate alternative front-end design strategies in EVs (no large cooling requirement).
-- Cr down to 0.180: Drag: 130.2N at 25m/s-1 (90 kph), Drag Power: 3255W 
+- Cr down to 0.180: Drag: 130.2N at 25m/s-1 (90 kph), Drag Power: 3255W
+
+
+---
+
+## Repository Structure
+
+- `/docs` — Design notes, ideas, and simulation logs
+- `/models` — FreeCAD files for each design iteration
+- `/stl` — STL files for each CFD simulation 
+- `/images` — Visualizations from CFD simulations
+
+---
+
+## Tools Used
+
+- **CAD:** FreeCAD 1.0.x  
+- **CFD:** InsightCAE (OpenFOAM-based)
+
+## Simulation Screenshots
+
+Here are some CFD simulation screenshots from various design iterations:
+
+![Screenshot 2025-06-14 091352](images/Screenshot%202025-06-14%20091352.png)  
+![Screenshot 2025-06-13 211135](images/Screenshot%202025-06-13%20211135.png)  
+![Screenshot 2025-06-13 210509](images/Screenshot%202025-06-13%20210509.png)  
+![Screenshot 2025-06-13 162620](images/Screenshot%202025-06-13%20162620.png)  
+![Screenshot 2025-06-13 162607](images/Screenshot%202025-06-13%20162607.png)  
+![Screenshot 2025-06-12 100539](images/Screenshot%202025-06-12%20100539.png)  
+![Screenshot 2025-06-12 100433](images/Screenshot%202025-06-12%20100433.png)  
+![Screenshot 2025-06-12 100205](images/Screenshot%202025-06-12%20100205.png)  
+![Screenshot 2025-06-12 100155](images/Screenshot%202025-06-12%20100155.png)  
+![Screenshot 2025-06-11 235054](images/Screenshot%202025-06-11%20235054.png)  
+![Screenshot 2025-06-11 234823](images/Screenshot%202025-06-11%20234823.png)  
+![Screenshot 2025-06-11 233728](images/Screenshot%202025-06-11%20233728.png)  
+![Screenshot 2025-06-10 192857](images/Screenshot%202025-06-10%20192857.png)  
+![Screenshot 2025-06-10 192725](images/Screenshot%202025-06-10%20192725.png)  
+![Screenshot 2025-06-10 192540](images/Screenshot%202025-06-10%20192540.png)  
+![Screenshot 2025-06-09 102752](images/Screenshot%202025-06-09%20102752.png)  
+![Screenshot 2025-06-09 102557](images/Screenshot%202025-06-09%20102557.png)  
+![Screenshot 2025-06-08 235350](images/Screenshot%202025-06-08%20235350.png)  
+![Screenshot 2025-06-08 205318](images/Screenshot%202025-06-08%20205318.png)  
+![Screenshot 2025-06-08 205301](images/Screenshot%202025-06-08%20205301.png) 
+![Screenshot 2025-06-08 205247](images/Screenshot%202025-06-08%20205247.png)
+
+
 
 ## License
 
