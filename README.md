@@ -37,7 +37,9 @@ Numerous iterations of the canopy’s rear end were evaluated to reduce wake rec
 - Reduce overall **drag coefficient** (Cd) to improve electric range.
 - Maintain **large cargo space** without compromising aerodynamic efficiency.
 - Demonstrate alternative front-end design strategies in EVs (no large cooling requirement).
-- Cr down to 0.180: Drag: 130.2N at 25m/s-1 (90 kph), Drag Power: 3255W
+- Cr down to 0.180
+- Drag: 130.2N at 25m/s-1 (90 kph), Drag Power: 3255W
+- Drag: 266.0N at 36m/s-1 (130 kph), Drag Power: 9577W
 
 
 ---
