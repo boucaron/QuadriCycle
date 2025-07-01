@@ -61,7 +61,8 @@ Numerous iterations of the canopy’s rear end were evaluated to reduce wake rec
 ## Simulation Screenshots
 
 Here are some CFD simulation screenshots from various design iterations:
-
+![Screenshot 2025-07-01 193554](images/Screenshot%202025-07-01%20193554.png)  
+![Screenshot 2025-07-01 193622](images/Screenshot%202025-07-01%20193622.png)
 ![Screenshot 2025-06-14 091352](images/Screenshot%202025-06-14%20091352.png)  
 ![Screenshot 2025-06-13 211135](images/Screenshot%202025-06-13%20211135.png)  
 ![Screenshot 2025-06-13 210509](images/Screenshot%202025-06-13%20210509.png)  
